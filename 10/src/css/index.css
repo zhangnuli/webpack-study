@@ -1,0 +1,6 @@
+@import './a.css';
+
+body{
+    background: url(../img/01.jpg);
+    display: flex;
+}
