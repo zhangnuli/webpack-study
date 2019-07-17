@@ -1,0 +1,11 @@
+body{
+    color:pink;
+    display: flex;
+    transform: rotate(-50);
+}
+body{
+    background: url(../img/7c1fed4911486777b39c9e16bc6ad190.jpg);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
